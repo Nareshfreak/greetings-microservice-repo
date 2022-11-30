@@ -1,6 +1,7 @@
 # Greetings Micro Service Repository
 
 This repository contains the Greetings micro service.
+Testing Github and Jenkins Integration
 
 ## Requests
 
